@@ -1,0 +1,6 @@
+@PEGAZO_HostAddress = http://localhost:5274
+
+GET {{PEGAZO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
