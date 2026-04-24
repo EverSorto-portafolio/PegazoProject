@@ -2,7 +2,7 @@
 {
     public class DatosAcademicosEstudainte
     {
-        public int IdDatosEstudaitnes { get; set; }
+        public int Id { get; set; }
         public int IdEstudainte { get; set; }
         public string Carrera { get; set; }
         public string CicloActual { get; set; }

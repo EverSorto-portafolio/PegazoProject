@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PEGAZO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a36afee324b6e56fd1c9ccbbef61cb845c17e4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a454e9913fb37cee6974e35f7cf8dfe5322c7bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PEGAZO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PEGAZO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
