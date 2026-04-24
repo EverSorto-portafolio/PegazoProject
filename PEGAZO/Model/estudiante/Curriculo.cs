@@ -2,7 +2,7 @@
 {
     public class Curriculo
     {
-        public int idCurriculo { get; set; }
+        public int Id { get; set; }
         public int  IdEstudiante { get; set; }
         public string CursosRealizado { get; set; }
         public string ExperienciaLaboral { get; set; }
