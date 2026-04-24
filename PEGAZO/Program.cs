@@ -1,4 +1,27 @@
+using Microsoft.EntityFrameworkCore;
+using PEGAZO.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+#region
+// configurar SQL
+
+builder.Services.AddDbContext<AdminDbContext>(options => options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection")
+        ));
+
+#endregion
+
+
+
+
+
+
+
+
+
+
+
 
 // Add services to the container.
 
